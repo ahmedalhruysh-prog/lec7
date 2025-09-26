@@ -88,4 +88,6 @@ Takes two numbers and returns the sum.
 
 ## Demo
 
-Insert gif or link to demo
+inter theis to view my website
+[Demo](https://ahmedalhruysh-prog.github.io/lec7)
+
